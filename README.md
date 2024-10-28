@@ -18,7 +18,7 @@ This inital version seeks to solve:
 ## What does the future look like?
 
 In the future Yet Another Multiplexer will also implement functionality as seen in similar packages for other languages, such as:
-- [fastapi/fastap](https://github.com/fastapi/fastapi)
+- [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 The following might be implemented:
 - Typing of request bodies (to the best extend that the language will allow)
