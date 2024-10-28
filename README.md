@@ -1,5 +1,6 @@
 # go-yam
 ![build and test](https://github.com/ndewet/go-yam/actions/workflows/go.yml/badge.svg)
+
 Yet Another Multiplexer - lightweight, ergonomic routing module for Go.
 
 ## Why do we need Yet Another Multiplexer?
