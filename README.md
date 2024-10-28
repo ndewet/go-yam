@@ -1,5 +1,5 @@
 # go-yam
-![build and test](https://github.com/ndewet/go-yam/actions/workflows/go.yml/badge.svg)
+![build and test](https://github.com/ndewet/go-yam/actions/workflows/go.yml/badge.svg)[![Go Report Card](https://goreportcard.com/badge/github.com/ndewet/go-yam)](https://goreportcard.com/report/github.com/ndewet/go-yam)
 
 Yet Another Multiplexer - lightweight, ergonomic routing module for Go.
 
